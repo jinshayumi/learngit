@@ -1,0 +1,15 @@
+git init
+
+git add .
+
+git commit -m "info"
+
+git log
+
+git reset --hard %%%%%%%%%%%
+
+
+前提：有一个远程仓库连接至github的某个项目
+git pull
+
+git push
